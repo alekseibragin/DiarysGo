@@ -17,4 +17,4 @@
 
 https://www.hse.ru/ma/dh/news/531298295.html
 
-<p align="center"> <img width="600" src="https://github.com/alekseibragin/alekseibragin/blob/main/image16.png"" alt="1." />
+<p align="center"> <img width="800" src="https://github.com/alekseibragin/alekseibragin/blob/main/image16.png"" alt="1." />
