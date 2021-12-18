@@ -16,3 +16,5 @@
 Полный репортаж (а также много смешных и интересных скриншотов) можно посмотреть здесь:
 
 https://www.hse.ru/ma/dh/news/531298295.html
+
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image16.png"" alt="1." />
